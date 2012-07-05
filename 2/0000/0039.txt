@@ -101,8 +101,8 @@ Double score
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001こ
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001かい
 \xf000Ā\x0001\x0000のスコア\xf000ȃ\x0001\x0001
-Mission acomplished!
-Mission acomplished!
+Mission accomplished!
+Mission accomplished!
 \xf000Ā\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffe\xf000ȁ\x0001\x0002こ　てにいれた！
 ざんねん！　\xf000ĉ\x0001\x0000は\xfffeこれいじょう　もてない！
 Incidence double score bonus!
